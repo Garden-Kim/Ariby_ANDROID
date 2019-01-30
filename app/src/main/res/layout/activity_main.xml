@@ -45,7 +45,7 @@
             android:layout_marginBottom="120dp"
             android:text="새 사용자"
             android:textSize="17sp"
-            android:background="@drawable/firstbutton"
+            android:background="@drawable/mybutton"
             android:fontFamily="@font/nanumgothicregular"
             android:textColor="@android:color/white"
             android:textStyle="bold"/>
@@ -57,7 +57,7 @@
             android:layout_marginBottom="50dp"
             android:text="기존 사용자"
             android:textSize="17sp"
-            android:background="@drawable/secondbutton"
+            android:background="@drawable/mybutton2"
             android:fontFamily="@font/nanumgothicregular"
             android:textColor="@android:color/white"
             android:textStyle="bold"/>
